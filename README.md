@@ -1,0 +1,51 @@
+# 🚀 Async-Await Demo with Jethalal & Babita
+
+A fun, visual, and Hindi-based representation of **Asynchronous Programming** using popular characters **Jethalal** and **Babita** from *TMKOC*. This educational demo explains how `async/await` works in JavaScript using relatable metaphors and an engaging UI.
+
+🔗 **Live Demo:** [https://demo-async-await.netlify.app/](https://demo-async-await.netlify.app/)
+
+---
+
+## 📸 Preview
+
+![Async Await Demo Screenshot](https://demo-async-await.netlify.app/preview.png)  
+*(Optional: Add a real screenshot or GIF if available)*
+
+---
+
+## 🎯 Features
+
+- 🧠 Conceptual explanation of Async vs Sync in simple Hindi
+- 🧑‍💻 Code sample with async/await
+- 👨‍💼 Characters: Jethalal (Async Function) & Babita (Main Thread)
+- 🕒 Step-by-step animated demo of an API call scenario
+- 📱 Fully responsive layout for mobile and desktop
+- 🌈 Stylish UI with gradients and soft shadows
+
+---
+
+## 📚 Topics Covered
+
+- What is asynchronous programming?
+- How async/await works in JavaScript
+- Benefits of non-blocking UI
+- Difference between synchronous and asynchronous behavior
+- Real-world analogy using fictional characters
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 (with gradients, animations, media queries)
+- JavaScript (vanilla)
+- No external libraries or frameworks
+
+---
+
+## 🧪 How to Run Locally
+
+```bash
+git clone https://github.com/yourusername/async-babita-jetha-demo.git
+cd async-babita-jetha-demo
+open index.html  # or simply open in your browser
