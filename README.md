@@ -6,12 +6,6 @@ A fun, visual, and Hindi-based representation of **Asynchronous Programming** us
 
 ---
 
-## 📸 Preview
-
-![Async Await Demo Screenshot](https://demo-async-await.netlify.app/preview.png)  
-*(Optional: Add a real screenshot or GIF if available)*
-
----
 
 ## 🎯 Features
 
