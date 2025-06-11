@@ -40,7 +40,7 @@ A fun, visual, and Hindi-based representation of **Asynchronous Programming** us
 ## 👨‍🎨 Created By
 🔗 **Instagram:** [Full Stack Gada](https://www.instagram.com/fullstackgada/?next=%2F/)
 
--🤝 Follow on Instagram for more creative tech content!
+🤝 Follow on Instagram for more creative tech content!
 
 ## 🧪 How to Run Locally
 
