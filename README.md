@@ -23,7 +23,7 @@ A fun, visual, and Hindi-based representation of **Asynchronous Programming** us
 - What is asynchronous programming?
 - How async/await works in JavaScript
 - Benefits of non-blocking UI
-- Difference between synchronous and asynchronous behavior
+- Difference between synchronous and asynchronous behaviour
 - Real-world analogy using fictional characters
 
 ---
@@ -38,7 +38,7 @@ A fun, visual, and Hindi-based representation of **Asynchronous Programming** us
 ---
 
 ## Created By
-🔗 **Instagram:** [https://www.instagram.com/fullstackgada/?next=%2F/](https://www.instagram.com/fullstackgada/?next=%2F/)
+🔗 **Instagram:** [Instagram Profile](https://www.instagram.com/fullstackgada/?next=%2F/)
 
 ## 🧪 How to Run Locally
 
