@@ -1,4 +1,4 @@
-# 🚀 Async-Await Demo with Jethalal & Babita
+# 🚀 Async-Await Interactive Guide with Jethalal & Babita
 
 A fun, visual, and Hindi-based representation of **Asynchronous Programming** using popular characters **Jethalal** and **Babita** from *TMKOC*. This educational demo explains how `async/await` works in JavaScript using relatable metaphors and an engaging UI.
 
