@@ -38,13 +38,6 @@ A fun, visual, and Hindi-based representation of **Asynchronous Programming** us
 ---
 
 ## 👨‍🎨 Created By
-🔗 **Instagram:** [Full Stack Gada](https://www.instagram.com/fullstackgada/?next=%2F/)
+🔗 **Instagram:** [fullstackgada](https://www.instagram.com/fullstackgada/)
 
 🤝 Follow on Instagram for more creative tech content!
-
-## 🧪 How to Run Locally
-
-```bash
-git clone https://github.com/yourusername/async-babita-jetha-demo.git
-cd async-babita-jetha-demo
-open index.html  # or simply open in your browser
